@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: ba810159ef3e36a43844d6beb1ba5c7a
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HandTex.png
+    second: {fileID: 2100000, guid: bc05cd8a956c99d4da7d141d0e508443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Injection.png
+    second: {fileID: 2100000, guid: 177ca9ab111058b44894e12aa6310b6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lighter.png
+    second: {fileID: 2100000, guid: 9073d0792efe64248a412f52831bc7a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights33.png
+    second: {fileID: 2100000, guid: 81d9dd9f580e47d4e927befc8bcf6229, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M1903RIfleTx.png
+    second: {fileID: 2100000, guid: 5a6867c60fab5f94cadc5fcf0ae6bd5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PainKiller2.png
+    second: {fileID: 2100000, guid: d22c6945c5d63ae4fa565757d11d267b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Revolver_Low.png
+    second: {fileID: 2100000, guid: 979247309023b874d826348895074f0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: auto5.png
+    second: {fileID: 2100000, guid: 26900dfa449b9ee4aa3be7a3df59e5a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bandTex.png
+    second: {fileID: 2100000, guid: 101fc4cde4124344f80b4d3c759a41d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ironPipetex.png
+    second: {fileID: 2100000, guid: 26e1e52d4a17d8947b88d0b3a5f764e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: men_cloth2.png
+    second: {fileID: 2100000, guid: d17fa07a20776c94e9385ca9eac1cc06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vintageGunTex.png
+    second: {fileID: 2100000, guid: 3831a58cd60634645b42e7838dff85d6, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bat2
+    second: {fileID: 2800000, guid: 839a0cb422200f942ac0a7d03903a541, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boggle2
+    second: {fileID: 2800000, guid: e08e93f8f219b6b40beb79eb8fc91c74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bottle2
+    second: {fileID: 2800000, guid: 8eac65d478b1a2348b252d3b78aa95c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HandTex
+    second: {fileID: 2800000, guid: d633fad086aff8d4ca94228740db0cca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Injection
+    second: {fileID: 2800000, guid: 44ae62acb2d9dbb4dad9ec59d72686ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lighter
+    second: {fileID: 2800000, guid: d977563ff59f21846b0df852b2278d67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lights0003_1_350
+    second: {fileID: 2800000, guid: ecb3e8e2460bc2749829d666e9cb07f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lights122
+    second: {fileID: 2800000, guid: 5503eeebf9d627c42b21442745d3fc55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lights222
+    second: {fileID: 2800000, guid: 9806169cd3520994b88b273dd7cff479, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lights33
+    second: {fileID: 2800000, guid: 5c94adca1e6d0e0498b80fd5cf50e4b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M1903RIfleTx
+    second: {fileID: 2800000, guid: 34b9fa9dbc7d41746974868a0f7a41cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PainKiller
+    second: {fileID: 2800000, guid: 6c1dc8c39d243a14fa82bb2006bc1e17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PainKiller2
+    second: {fileID: 2800000, guid: 54056f69e53bde243ba0c05c9d18d2d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Revolver_Low
+    second: {fileID: 2800000, guid: a9cda704f34f0804491a98551ad4d3ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: auto-5_Textuture
+    second: {fileID: 2800000, guid: 65087693f48e03f439e3f00c4eda2087, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: auto5
+    second: {fileID: 2800000, guid: a5cefeafd65d7b943844a79c4c4d2842, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bandTex
+    second: {fileID: 2800000, guid: 25bfffa1c91525d47b64cdcb2ad592c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ironPipetex
+    second: {fileID: 2800000, guid: c14ab68c2aacf4b428197c36c3e6646b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: men_cloth2
+    second: {fileID: 2800000, guid: eb9865db6a1a346459968079e8a589fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vintageGunTex
+    second: {fileID: 2800000, guid: d05539ae64ea41547a0333d9f1842723, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\uC2A4\uD06C\uB9B0\uC0F7 2025-01-17 154626"
+    second: {fileID: 2800000, guid: b331fbc72f8e02e42ac30b4954714b00, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
